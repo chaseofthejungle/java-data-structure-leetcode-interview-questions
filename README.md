@@ -9,7 +9,6 @@ Data structures covered in this repository include:
 | Arrays | |  
 | Hashes | HashTables |  
 | Lists | LinkedLists, DoublyLinkedLists |  
-| Queues | Deques, Enqueues |  
 | Sets | |  
-| Stacks | |  
+| Stacks and Queues | Dequeues, Enqueues |  
 | Trees | BinarySearchTrees, Heaps |
