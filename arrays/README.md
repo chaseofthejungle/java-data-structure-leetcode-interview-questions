@@ -1,6 +1,6 @@
 # Demonstrations in this folder include:
   
-| Script File Name | Summary of Script Purpose |  
+| Demo Name | Summary of Demo Purpose |  
 | ---------- | ---------- |  
 | ArrayFindLongestString | Determines string with most characters from hard-coded string arrays. |  
 | ArrayFindMaxMin | Determines maximum and minimum values from hard-coded integer arrays. |  
