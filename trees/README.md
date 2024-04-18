@@ -1,5 +1,7 @@
 # Demonstrations in this folder include:
-
-* BSTFindKSmallest
-* HeapFindKSmallest
-* HeapMaxElement
+  
+| Demo Name | Summary of Demo Purpose |  
+| ---------- | ---------- |  
+| BSTFindKSmallest | |  
+| HeapFindKSmallest | |  
+| HeapMaxElement | |
