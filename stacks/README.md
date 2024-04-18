@@ -1,9 +1,11 @@
 # Demonstrations in this folder include:
-
-* DequeueStack
-* EnqueueStack
-* SortStack
-* StackParenthesesBalanced
-* StackPopForArrayList
-* StackPushForArrayList
-* StackReverseString
+  
+| Demo Name | Summary of Demo Purpose |  
+| ---------- | ---------- |  
+| DequeueStack | |  
+| EnqueueStack | |  
+| SortStack | |  
+| StackParenthesesBalanced | |  
+| StackPopForArrayList | |  
+| StackPushForArrayList | |  
+| StackReverseString | |
