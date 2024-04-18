@@ -1,6 +1,8 @@
 # Demonstrations in this folder include:
-
-* SetFindPairs
-* SetLongestSequence
-* SetRemoveDuplicates
-* SetUniqueChars
+  
+| Demo Name | Summary of Demo Purpose |  
+| ---------- | ---------- |  
+| SetFindPairs | |  
+| SetLongestSequence | |  
+| SetRemoveDuplicates | |  
+| SetUniqueChars | |  
