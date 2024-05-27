@@ -6,7 +6,7 @@ Data structures covered in this repository include:
   
 | Data Structures | Specific Implementations |  
 | ----- | ----- |  
-| Arrays | |  
+| Arrays | primitive int arrays |  
 | Hashes | HashTables |  
 | Lists | LinkedLists, DoublyLinkedLists |  
 | Sets | |  
