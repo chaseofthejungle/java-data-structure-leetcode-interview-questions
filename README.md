@@ -6,9 +6,9 @@ Data structures covered in this repository include:
   
 | Data Structures | Specific Implementations |  
 | ----- | ----- |  
-| Arrays | primitive int arrays |  
+| Arrays | primitive int Arrays |  
 | Hashes | HashTables |  
 | Lists | LinkedLists, DoublyLinkedLists |  
-| Sets | |  
+| Sets | Set objects of Integers |  
 | Stacks and Queues | Dequeues, Enqueues |  
 | Trees | BinarySearchTrees, Heaps |
