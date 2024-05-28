@@ -4,7 +4,7 @@ These are code solutions for popular Java development interview questions concer
   
 Data structures covered in this repository include:  
   
-| Data Structures | Specific Implementations |  
+| Data Structures | Examples Demonstrated |  
 | ----- | ----- |  
 | Arrays | primitive int Arrays |  
 | Hashes | HashTables |  
