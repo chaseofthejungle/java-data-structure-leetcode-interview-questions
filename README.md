@@ -7,7 +7,7 @@ Data structures covered in this repository include:
 | Data Structures | Examples Demonstrated |  
 | ----- | ----- |  
 | Arrays | primitive int Arrays |  
-| Hashes | HashTables |  
+| Hashes | HashMaps |  
 | Lists | LinkedLists, DoublyLinkedLists |  
 | Sets | Set objects of Integers |  
 | Stacks and Queues | Dequeues, Enqueues |  
