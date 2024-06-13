@@ -2,9 +2,9 @@
   
 | Demo Name | Summary of Demo Purpose |  
 | ---------- | ---------- |  
-| HashTableCommonItem | |  
-| HashTableFindDuplicates | |  
-| HashTableFirstNonRepeat | |  
-| HashTableGroupAnagrams | |  
-| HashTableSubarraySum | |  
-| HashTableTwoSum | |  
+| HashMapCommonItem | |  
+| HashMapFindDuplicates | |  
+| HashMapFirstNonRepeat | |  
+| HashMapGroupAnagrams | |  
+| HashMapSubarraySum | |  
+| HashMapTwoSum | |  
