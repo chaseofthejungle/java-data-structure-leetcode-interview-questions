@@ -4,9 +4,9 @@ These are code solutions for popular Java development interview questions concer
     
 | Data Structure Types Reviewed | Demonstrations |  
 | ----- | ----- |  
-| Arrays | primitive int Arrays |  
-| Hashes | HashMaps |  
-| Lists | LinkedLists, DoublyLinkedLists |  
-| Sets | Set objects of Integers |  
-| Stacks and Queues | Dequeues, Enqueues |  
-| Trees | BinarySearchTrees, Heaps |
+| [Arrays](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/arrays) | primitive int Arrays |  
+| [Hashes](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/hashes) | HashMaps |  
+| [Lists](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists) | LinkedLists, DoublyLinkedLists |  
+| [Sets](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/sets) | Set objects of Integers |  
+| [Stacks and Queues](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/stacks) | Dequeues, Enqueues |  
+| [Trees](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/trees) | BinarySearchTrees, Heaps |
