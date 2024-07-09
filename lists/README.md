@@ -7,10 +7,10 @@
 | DLLSwapFirstAndLast | Prints the data of a doubly linked list before and after switching the first and last values. |  
 | DLLSwapNodesInPairs | Prints the data of a doubly linked list before and after switching the order of pairs of back-to-back values. |  
 | LLBubbleSort | |  
-| LLInsertionSort | |  
 | LLFindKthNodeFromEnd | |  
 | LLFindMiddleNode | |  
 | LLHasLoop | |  
+| LLInsertionSort | |  
 | LLMerge | |  
 | LLPartition | |  
 | LLRemoveDuplicates | |  
