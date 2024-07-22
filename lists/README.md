@@ -12,7 +12,7 @@
 | [LLHasLoop](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLHasLoop) | |  
 | [LLInsertionSort](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLInsertionSort) | |  
 | [LLMerge](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLMerge) | |  
-| [LLPartition](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLPartition) | |  
+| [LLPartition](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLPartition) | Sorts a LinkedList so that all nodes less than a value come before all nodes greater than or equal to it.|  
 | [LLRemoveDuplicates](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLRemoveDuplicates) | Removes redundant/repeated numerical values from a hard-coded LinkedList. |  
 | [LLReverseBetweenValues](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLReverseBetweenValues) | Sorts hardcoded sublists of a LinkedList in their opposite value order. |  
 | [LLSelectionSort](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLSelectionSort) | Demonstrates selection sort algorithm based on checking if node is smaller than smallest value. |  
