@@ -10,7 +10,7 @@
 | [LLFindKthNodeFromEnd](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLFindKthNodeFromEnd) | |  
 | [LLFindMiddleNode](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLFindMiddleNode) | |  
 | [LLHasLoop](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLHasLoop) | |  
-| [LLInsertionSort](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLInsertionSort) | |  
+| [LLInsertionSort](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLInsertionSort) | Prints integer values of a LinkedList, sorted in ascending order. |  
 | [LLMerge](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLMerge) | Takes the values of two LinkedLists and unites them into one LinkedList. |  
 | [LLPartition](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLPartition) | Sorts a LinkedList so that all nodes less than a value come before all nodes greater than or equal to it.|  
 | [LLRemoveDuplicates](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLRemoveDuplicates) | Removes redundant/repeated numerical values from a hard-coded LinkedList. |  
