@@ -9,7 +9,7 @@
 | [LLBubbleSort](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLBubbleSort) | Demonstrates bubble sort algorithm by checking adjacent nodes. |  
 | [LLFindKthNodeFromEnd](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLFindKthNodeFromEnd) | |  
 | [LLFindMiddleNode](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLFindMiddleNode) | |  
-| [LLHasLoop](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLHasLoop) | |  
+| [LLHasLoop](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLHasLoop) | Evaluates if a hard-coded LinkedList has a loop (two nodes connected). |  
 | [LLInsertionSort](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLInsertionSort) | Prints integer values of a LinkedList, sorted in ascending order. |  
 | [LLMerge](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLMerge) | Takes the values of two LinkedLists and unites them into one LinkedList. |  
 | [LLPartition](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLPartition) | Sorts a LinkedList so that all nodes less than a value come before all nodes greater than or equal to it.|  
