@@ -8,7 +8,7 @@
 | [DLLSwapNodesInPairs](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/DLLSwapNodesInPairs) | Prints the data of a doubly linked list before and after switching the order of pairs of back-to-back values. |  
 | [LLBubbleSort](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLBubbleSort) | Demonstrates bubble sort algorithm by checking adjacent nodes. |  
 | [LLFindKthNodeFromEnd](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLFindKthNodeFromEnd) | |  
-| [LLFindMiddleNode](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLFindMiddleNode) | |  
+| [LLFindMiddleNode](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLFindMiddleNode) | Determines middle node of a hard-coded LinkedList before and after a new node value is appended. |  
 | [LLHasLoop](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLHasLoop) | Evaluates if a hard-coded LinkedList has a loop (two nodes connected). |  
 | [LLInsertionSort](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLInsertionSort) | Prints integer values of a LinkedList, sorted in ascending order. |  
 | [LLMerge](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/LLMerge) | Takes the values of two LinkedLists and unites them into one LinkedList. |  
