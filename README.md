@@ -1,6 +1,8 @@
 # Java Data Structure Leetcode Interview Questions
   
 **Description:** These are code solutions for popular Java development interview questions concerning various data structures (e.g., LinkedLists, Stacks, HashTables), bearing similarities to Leetcode examples. These files can be used for independent learning, interview preparation, and/or as a supplement to academic study.  
+
+[Note: These data structure examples are relevant to many college-level Computer Science II and/or III courses.]
     
 | Data Structure Types Reviewed | Demonstrations |  
 | ----- | ----- |  
