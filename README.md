@@ -2,7 +2,7 @@
   
 **Description:** These are code solutions for popular Java development interview questions concerning various data structures (e.g., LinkedLists, Stacks, HashTables), bearing similarities to [Leetcode](https://leetcode.com/) examples. These files can be used for independent learning, interview preparation, and/or as a supplement to academic study.  
 
-[Note: These data structure examples are relevant to many college-level Computer Science II and/or III courses.]
+*Note: These data structure examples are relevant to many college-level Computer Science II and/or III courses. Before reading these examples, having a [general knowledge](https://quickcodingexplanation.medium.com/data-structures-overview-arrays-stack-queue-linked-list-hash-table-heap-binary-tree-7b88a5711a0b) of these data structures is advised.*
     
 | Data Structure Types Reviewed | Demonstrations |  
 | ----- | ----- |  
