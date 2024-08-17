@@ -1,5 +1,7 @@
 # Demonstrations in this folder include:
-  
+
+Prerequisite: An introductory knowledge of [arrays](https://www.tutorialspoint.com/java/java_arrays.htm).
+
 | Demo Name | Summary of Demo Purpose |  
 | ---------- | ---------- |  
 | [ArrayFindLongestString](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/arrays/ArrayFindLongestString) | Determines string with most characters from hard-coded string arrays. |  
