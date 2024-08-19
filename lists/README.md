@@ -1,4 +1,6 @@
 # Demonstrations in this folder include:
+
+Prerequisite: An introductory knowledge of [Java LinkedLists](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm).
   
 | Demo Name | Summary of Demo Purpose |  
 | ---------- | ---------- |  
