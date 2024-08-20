@@ -1,4 +1,6 @@
 # Demonstrations in this folder include:
+
+Prerequisite: An introductory knoweldge of [Java sets](https://www.tutorialspoint.com/java/java_set_interface.htm).
   
 | Demo Name | Summary of Demo Purpose |  
 | ---------- | ---------- |  
