@@ -1,6 +1,6 @@
 # Demonstrations in this folder include:
 
-Prerequisite: An introductory knowledge of [Java arrays](https://www.tutorialspoint.com/java/java_arrays.htm).
+Prerequisite: An introductory knowledge of [String and int Java arrays](https://www.tutorialspoint.com/java/java_arrays.htm).
 
 | Demo Name | Summary of Demo Purpose |  
 | ---------- | ---------- |  
