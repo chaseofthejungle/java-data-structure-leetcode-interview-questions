@@ -1,6 +1,6 @@
 # Demonstrations in this folder include:
 
-Prerequisite: An introductory knowledge of [Java hashmaps](https://www.tutorialspoint.com/java/java_hashmap_class.htm).
+**Prerequisite:** An introductory knowledge of [Java hashmaps](https://www.tutorialspoint.com/java/java_hashmap_class.htm).
   
 | Demo Name | Summary of Demo Purpose |  
 | ---------- | ---------- |  
