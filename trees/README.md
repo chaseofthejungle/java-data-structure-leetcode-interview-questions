@@ -1,6 +1,6 @@
 # Demonstrations in this folder include:
   
-Prerequisite: An introductory knowledge of [Java trees](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm).
+**Prerequisite:** An introductory knowledge of [Java trees](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm).
 
 | Demo Name | Summary of Demo Purpose |  
 | ---------- | ---------- |  
