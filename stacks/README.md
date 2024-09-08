@@ -2,9 +2,8 @@
 
 **Prerequisite:** An introductory knowledge of [Java stacks](https://www.tutorialspoint.com/stack-in-java).
 
-
 | Demo Name | Summary of Demo Purpose |  
-| ---------- | ---------- |  
+| :----------: | :----------: |  
 | [DequeueStack](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/stacks/DequeueStack) | Demonstrates removal of values from the front of a queue. |  
 | [EnqueueStack](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/stacks/EnqueueStack) | Demonstrates insertion of values to the back of a queue. |  
 | [SortStack](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/stacks/SortStack) | Demonstrates sorting of stack values using push and pop methods. |  
