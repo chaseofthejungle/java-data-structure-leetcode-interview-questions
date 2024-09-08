@@ -7,7 +7,7 @@
 *Note: These data structure examples are relevant to many college-level Computer Science II and/or III courses. Before reading these examples, having a [general knowledge](https://quickcodingexplanation.medium.com/data-structures-overview-arrays-stack-queue-linked-list-hash-table-heap-binary-tree-7b88a5711a0b) of these data structures is advised. If looking for an online Java compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*
     
 | Data Structure Types Reviewed | Demonstrations |  
-| ----- | ----- |  
+| :-----: | :-----: |  
 | [Arrays](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/arrays) | primitive int Arrays |  
 | [Hashes](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/hashes) | HashMaps |  
 | [Lists](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists) | LinkedLists, DoublyLinkedLists |  
