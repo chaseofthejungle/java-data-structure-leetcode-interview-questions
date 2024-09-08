@@ -3,7 +3,7 @@
 **Prerequisite:** An introductory knowledge of [Java LinkedLists](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm).
   
 | Demo Name | Summary of Demo Purpose |  
-| ---------- | ---------- |  
+| :----------: | :----------: |  
 | [DLLPalindromeChecker](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/DLLPalindromeChecker) | Evaluates if printing the data of a hard-coded doubly linked list results in a palindrome display of values. |  
 | [DLLReverse](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/DLLReverse) | Prints the values of a doubly linked list before and after the order of the values is reversed. |  
 | [DLLSwapFirstAndLast](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists/DLLSwapFirstAndLast) | Prints the data of a doubly linked list before and after switching the first and last values. |  
