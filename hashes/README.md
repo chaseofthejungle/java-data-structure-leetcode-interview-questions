@@ -3,7 +3,7 @@
 **Prerequisite:** An introductory knowledge of [Java hashmaps](https://www.tutorialspoint.com/java/java_hashmap_class.htm).
   
 | Demo Name | Summary of Demo Purpose |  
-| ---------- | ---------- |  
+| :----------: | :----------: |  
 | [HashMapCommonItem](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/hashes/HashMapCommonItem) | Evaluates if two hard-coded Integer arrays contain at least one of the same values. |  
 | [HashMapFindDuplicates](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/hashes/HashMapFindDuplicates) | Returns duplicate values found in a hard-coded Integer array. |  
 | [HashMapFirstNonRepeat](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/hashes/HashMapFirstNonRepeat) | Returns the first value from a hard-coded string of characters that is not followed by the same character. |  
