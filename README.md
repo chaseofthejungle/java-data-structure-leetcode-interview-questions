@@ -2,7 +2,7 @@
   
 **Description:** These are code solutions for popular Java development interview questions concerning various data structures (e.g., LinkedLists, Stacks, HashTables), bearing similarities to [Leetcode](https://leetcode.com/) examples. These files can be used for independent learning, interview preparation, and/or as a supplement to academic study.  
 
-**Prerequisites:** Prerequisite knowledge is referenced in the READMEs of each subfolder, including links to relevant tutorials. Having a [general knowledge](https://quickcodingexplanation.medium.com/data-structures-overview-arrays-stack-queue-linked-list-hash-table-heap-binary-tree-7b88a5711a0b) of these data structures is advised. 
+**Prerequisites:** Having a [general knowledge](https://quickcodingexplanation.medium.com/data-structures-overview-arrays-stack-queue-linked-list-hash-table-heap-binary-tree-7b88a5711a0b) of these data structures is advised. Prerequisite knowledge is also referenced in the READMEs of each subfolder, including links to relevant tutorials. 
   
 *Note: These data structure examples are relevant to many college-level Computer Science II and/or III courses. If looking for an online Java compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*
     
