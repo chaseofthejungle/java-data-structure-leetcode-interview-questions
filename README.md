@@ -6,7 +6,7 @@
   
 *Note: These data structure examples are relevant to many college-level Computer Science II and/or III courses. If looking for an online Java compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*
     
-| Data Structure Types Reviewed | Demonstrations |  
+| Data Structures | Demonstrations |  
 | :-----: | :-----: |  
 | [Arrays](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/arrays) | primitive int Arrays |  
 | [Hashes](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/hashes) | HashMaps |  
