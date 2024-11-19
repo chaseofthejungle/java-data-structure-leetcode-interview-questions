@@ -1,6 +1,7 @@
 # Demonstrations in this folder include:
 
 **Prerequisite:** An introductory knowledge of [String and int Java arrays](https://www.tutorialspoint.com/java/java_arrays.htm).
+<br /><br />
 
 | Name | Purpose |  
 | ---------- | ---------- |  
