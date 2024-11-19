@@ -3,7 +3,7 @@
 **Prerequisite:** An introductory knowledge of [String and int Java arrays](https://www.tutorialspoint.com/java/java_arrays.htm).
 
 | Demo Name | Summary of Demo Purpose |  
-| :----------: | :----------: |  
+| :----------: | ---------- |  
 | [ArrayFindLongestString](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/arrays/ArrayFindLongestString) | Determines string with most characters from hard-coded string arrays. |  
 | [ArrayFindMaxMin](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/arrays/ArrayFindMaxMin) | Determines maximum and minimum values from hard-coded integer arrays. |  
 | [ArrayMaxStockProfit](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/arrays/ArrayMaxStockProfit) | Determines maximum profit of buying/selling a stock once from hard-coded integer arrays of stock prices. |  
