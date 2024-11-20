@@ -1,7 +1,8 @@
 # Demonstrations in this folder include:
 
 **Prerequisite:** An introductory knowledge of [Java hashmaps](https://www.tutorialspoint.com/java/java_hashmap_class.htm).
-  
+<br /><br />
+
 | Demo Name | Summary of Demo Purpose |  
 | :----------: | :----------: |  
 | [HashMapCommonItem](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/hashes/HashMapCommonItem) | Evaluates if two hard-coded Integer arrays contain at least one of the same values. |  
