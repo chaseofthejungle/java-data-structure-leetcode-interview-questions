@@ -1,6 +1,7 @@
 # Demonstrations in this folder include:
 
 **Prerequisite:** An introductory knowledge of [Java stacks](https://www.tutorialspoint.com/stack-in-java).
+<br /><br />  
 
 | Demo Name | Summary of Demo Purpose |  
 | :----------: | :----------: |  
