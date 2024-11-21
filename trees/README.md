@@ -1,7 +1,8 @@
 # Demonstrations in this folder include:
   
 **Prerequisite:** An introductory knowledge of [Java trees](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm).
-
+<br /><br />
+  
 | Demo Name | Summary of Demo Purpose |  
 | :----------: | :----------: |  
 | [BSTFindKSmallest](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/trees/BSTFindKSmallest) | Retrieves hard-coded 'nth' smallest value from a hard-coded BST. |  
