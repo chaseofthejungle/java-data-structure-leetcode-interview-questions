@@ -1,9 +1,10 @@
-# Demonstrations in this folder include:
+# Arrays
+**Definition/Overview:** Stores items (accessible by referencing their indices) of the same data type within a continuous memory block.  
 
 **Prerequisite:** An introductory knowledge of [String and int Java arrays](https://www.tutorialspoint.com/java/java_arrays.htm).
 <br /><br />
 
-| Name | Purpose |  
+| Demonstration | Purpose |  
 | ---------- | ---------- |  
 | [ArrayFindLongestString](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/arrays/ArrayFindLongestString) | Determines string with most characters from hard-coded string arrays. |  
 | [ArrayFindMaxMin](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/arrays/ArrayFindMaxMin) | Determines maximum and minimum values from hard-coded integer arrays. |  
