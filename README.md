@@ -8,7 +8,7 @@
 <br /><br />
 
 | Data Structures | Demonstrations |  
-| :-----: | :-----: |  
+| ----- | ----- |  
 | [Arrays](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/arrays) | primitive int Arrays |  
 | [Hashes](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/hashes) | HashMaps |  
 | [Lists](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/lists) | LinkedLists, DoublyLinkedLists |  
