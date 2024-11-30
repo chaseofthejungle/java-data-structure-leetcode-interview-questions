@@ -4,7 +4,7 @@
 
 **Prerequisites:** Having a [general knowledge](https://quickcodingexplanation.medium.com/data-structures-overview-arrays-stack-queue-linked-list-hash-table-heap-binary-tree-7b88a5711a0b) of these data structures is advised. Prerequisite knowledge is also referenced in the READMEs of each subfolder, including links to relevant tutorials. 
   
-*Note: These data structure examples are relevant to many college-level Computer Science II and/or III courses. If looking for an online Java compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*
+*Note: If looking for an online Java compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*
 <br /><br />
 
 | Data Structures | Demonstrations |  
