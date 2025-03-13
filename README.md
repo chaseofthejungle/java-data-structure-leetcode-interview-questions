@@ -15,3 +15,7 @@
 | [Sets](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/sets) | Set objects of Integers |  
 | [Stacks and Queues](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/stacks) | Dequeues, Enqueues |  
 | [Trees](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/trees) | BinarySearchTrees, Heaps |
+  
+## <a name="supplemental">Supplemental Resource</a>
+  
+[Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)
