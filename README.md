@@ -16,6 +16,7 @@
 | [Stacks and Queues](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/stacks) | Dequeues, Enqueues |  
 | [Trees](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions/tree/main/trees) | BinarySearchTrees, Heaps |
   
-## <a name="supplemental">Supplemental Resource</a>
+## <a name="supplemental">Supplemental Resources</a>
   
-[Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)
+* *[Intro to Java Overview Guide](https://github.com/chaseofthejungle/intro-to-java)*  
+* *[Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)*
